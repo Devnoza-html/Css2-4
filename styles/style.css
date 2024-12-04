@@ -1,0 +1,176 @@
+#picWithText {
+    display: block;
+    margin-top: 100px;
+}
+
+#imgOne {
+    width: 65%;
+    height: 700px;
+    display: block;
+    margin: 0 auto; 
+}
+
+#lorem {
+    font-size: 36px;
+    width: 55%;
+    margin: 0 auto;
+    font-family: "Poetsen One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+    margin-bottom: -170px;
+    position: relative;
+}
+
+#container {
+    width: 1000px;
+    margin: 0 auto;
+    margin-top: 110px;
+    background-color: #EBF8FE;
+    padding: 15px 25px;
+    border-radius: 14px;
+}
+
+#befirst {
+    font-size: 55px;
+    font-family: "Inria Sans", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    text-align: center;
+}
+
+#building {
+    font-size: 32px;
+    font-family: "Inria Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#emailOne {
+    width: 365px;
+    height: 40px;
+    padding: 8px 12px;
+    border-radius: 8px;
+    border: 1px solid #D5D7DA;
+    margin: 0 auto;
+    margin-left: 210px;
+}
+
+#emailOne::placeholder {
+    font-family: "Inria Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 22px;
+}
+
+#subscribe {
+    background-color: #007CB8;
+    color: white;
+    padding: 15px 19px;
+    border-radius: 6px;
+    border: none;
+    font-size: 20px;
+    margin-left: 25px;
+}
+
+#care {
+    display: inline-block;
+    font-family: "Inria Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+    margin-left: 210px; 
+}
+
+#privacyPolicy {
+    text-decoration: underline;
+    text-decoration-style: solid;   
+}
+
+#containerTwo {
+    width: 520px;
+    margin: 0 auto;
+    margin-top: 100px;
+    background-color: #EBF8FE;
+    padding-top: 20px;
+    padding: 16px 22px;
+    border-radius: 14px;
+}
+
+#submitForm {
+    text-align: left;
+    font-family: "Inria Sans", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 32px;
+}
+
+#fullName {
+    display: block;
+    padding: 14px 20px;
+    border-radius: 8px;
+    border: 1px solid #380054;
+    margin: 8px 0 15px 12px;
+    width: 430px;
+}
+
+#formMail {
+    display: block;
+    padding: 14px 20px;
+    border-radius: 8px;
+    border: 1px solid #380054;
+    margin: 8px 0 15px 12px;
+    width: 430px;
+}
+
+#labelOne, #labelTwo {
+    margin-left: 12px;
+    font-size: 24px;
+    font-family: "Inria Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#labelRadio {
+    color: #6D5F8B;
+    margin-left: 5px;
+    font-size: 18px;
+    font-family: "Inria Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#radio {
+    margin-left: 12px;
+    font-size: 20px;
+    font-family: "Inria Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#radioOne, #radioTwo, #radioThree {
+    display: inline-block;
+    margin-left: 12px;
+    margin-bottom: 18px;
+}
+
+#checkmark {
+    margin-left: 12px;
+    font-size: 20px;
+    font-family: "Inria Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#checkbox, #checkboxOne, #checkboxTwo, #checkboxThree {
+    margin-left: 12px;
+    margin-bottom: 10px;
+}
+
+#labelcheckbox {
+    margin-left: 5px;
+    font-size: 18px;
+    font-family: "Inria Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
